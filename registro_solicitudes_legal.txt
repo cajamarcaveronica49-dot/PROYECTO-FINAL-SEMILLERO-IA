@@ -1,0 +1,2 @@
+LEG-0001 | 2026-07-22 22:09:20 | Prestación de Servicios | ABC Consulting | Implementación ERP | 12 meses | USD 45000 | Sí
+LEG-0002 | 2026-07-22 23:08:05 | Prestación de Servicios | ABC Consulting | Implementación ERP | 12 meses | 45000 | Sí
